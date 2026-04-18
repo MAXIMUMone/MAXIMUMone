@@ -5,7 +5,7 @@ I'm a 4th-year Mechanical & Mechatronics Engineering student at Polytech Annecy-
 ### 🚀 What I do
 * 🔭 **Robotics:** I'm the President of the POLYBOT robotics club on campus, and I've been involved in building robots for national competitions for years.
 * ✈️ **Aerospace Geek:** I spend a lot of time on flight simulators (DCS, MSFS) and playing War Thunder. Fun fact: I once practiced docking a Soyuz TMA to the ISS on an official simulator in Moscow!
-* 🎸 **Music & Arts:** I'm a classical pianist (currently playing romantic classical music like Rachmaninov) and I also play in a rock band with my campus music association, AMUA. I also practiced contemporary dance for over 10 years!
+* 🎸 **Music & Arts:** I'm a classical pianist (currently playing romantic classical music like Rachmaninov) and I also play in a rock band with my campus music association.
 * ⛵ **Outdoors:** When I'm not near a screen, you can find me on the water—I'm an assistant instructor for catamaran and windsurfing.
 
 ### 🤖 Projects
